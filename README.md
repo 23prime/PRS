@@ -13,7 +13,7 @@ Calcurate Polynomial Remainder Sequence (PRS) in three different ways.
 ## Execute
 
 ```
-$ pyrhon3 test.py
+$ python3 test.py
 ```
 
 ## Results
