@@ -1,6 +1,6 @@
 # PRS
 
-Calcurate Polynomial Remainder Sequence (PRS) in three different ways.
+Calculate Polynomial Remainder Sequence (PRS) in three different ways.
 - By pseudo division
 - Redcued PRS
 - Subresultant PRS
