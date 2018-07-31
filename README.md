@@ -9,6 +9,7 @@ Calculate Polynomial Remainder Sequence (PRS) in three different ways.
 
 - Ubuntu 18.04 LTS
 - Python 3.6.5
+- SymPy 1.1.1
 
 ## Execute
 
